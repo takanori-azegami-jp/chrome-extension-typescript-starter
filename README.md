@@ -58,6 +58,8 @@ npm run watch
 
 ### Visual Studio Code
 
+## 参考サイト
+- [初心者がTypescript×ReactでChrome拡張を作った話](https://techgrowup.net/2022/01/02/chrome-extension-tab-group-manager/)
 Run watch mode.
 
 type `Ctrl + Shift + B`
